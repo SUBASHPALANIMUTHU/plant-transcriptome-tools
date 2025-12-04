@@ -1,0 +1,11 @@
+# Core
+numpy
+pandas
+biopython
+
+# Visualization
+matplotlib
+seaborn
+
+# Optional utilities
+tqdm
